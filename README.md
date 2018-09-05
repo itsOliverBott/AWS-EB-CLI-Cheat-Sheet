@@ -23,6 +23,7 @@ Created a cheat sheet to help with **AWS EB CLI** functionality
 | ```eb logs``` | View content of **logs** of first instance |
 | ```eb logs --all``` | View content of **logs** for ***all*** logs |
 | ```eb logs --instance instanceName``` | View content of **logs** of named ***instance*** |
+| ```eb printenv``` | **Print** environment variables |
 
 ## Danger Area
 | command | summary |
