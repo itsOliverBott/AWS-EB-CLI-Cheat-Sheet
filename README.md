@@ -4,6 +4,7 @@ Created a cheat sheet to help with **AWS EB CLI** functionality
 ## Setup
 | command | summary |
 |--|--|
+| ```eb init``` | **Init**ialize EB |
 | ```eb create``` | **Create** an EB environment |
 
 ## Deployment
